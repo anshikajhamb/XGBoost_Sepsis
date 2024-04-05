@@ -4,7 +4,6 @@ As can be seen, there are several limitations to my XGBoost model given the comp
 
 2. Did not include new hand-crafted features: new features, especially when derived from relevant physiological parameters like heart rate, systolic blood pressure, bilirubin, and creatinine levels, can provide additional information that may enhance the model's ability to detect sepsis accurately.
 
-3. 
 
 
 *Reyna, M. A., Josef, C. S., Jeter, R., Shashikumar, S. P., Westover, M. B., Nemati, S., Clifford, G. D., & Sharma, A. (2020). Early Prediction of Sepsis From Clinical Data: The PhysioNet/Computing in Cardiology Challenge 2019. Critical care medicine, 48(2), 210–217. https://doi.org/10.1097/CCM.0000000000004145
